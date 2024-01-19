@@ -1,6 +1,6 @@
 # Desafio Escrevendo as Classes de Um Jogo
 
-Repositorio feito para soluciona o desafio da DIO do bootcamp Potência Tech iFood - Programação do Zero
+Repositorio foi feito para soluciona o desafio da DIO do bootcamp Potência Tech iFood - Programação do Zero
 ## Objetivo:
 
 Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
